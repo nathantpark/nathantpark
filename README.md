@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**nathantpark/nathantpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I'm a recent graduate from UCSD with a B.S. in Business Psychology. I also have recently completed the Google Data Analytics Certificate.
 
@@ -12,4 +11,3 @@ Currently, I'm open to any full time opportunities in the field of Data Analytic
 - 💬 Ask me about any past projects or experience.
 - 📫 How to reach me: email me at nathan.park.t@gmail.com
 
--->
